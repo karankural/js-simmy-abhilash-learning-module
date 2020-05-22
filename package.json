@@ -1,0 +1,22 @@
+{
+  "name": "testproject_ab",
+  "version": "1.0.0",
+  "description": "basic struct",
+  "main": "matrix.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "jasmine": "^3.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhilash0905/js-simmy-abhilash-learning-module.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhilash0905/js-simmy-abhilash-learning-module/issues"
+  },
+  "homepage": "https://github.com/abhilash0905/js-simmy-abhilash-learning-module#readme"
+}
