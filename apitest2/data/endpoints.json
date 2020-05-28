@@ -1,0 +1,5 @@
+{
+    "listUsers" : "/api/users?page=2",
+    "singleUser" : "/api/users/2",
+    "unknown" : "/api/unknown"
+}
