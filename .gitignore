@@ -2,3 +2,5 @@ apitests/node_modules/
 node_modules/
 package-lock.json
 trello.js
+package.json
+module1.js
