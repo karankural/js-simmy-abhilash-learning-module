@@ -1,0 +1,54 @@
+{
+    "api" : {
+        "post": "/api/users",
+        "put" : "/api/users/2",
+        "get" : "/api/users/2"
+    },
+    "postData" :{
+        "name": "morpheus",
+            "job": "leader"
+    },
+    "putData": {
+        "name": "morpheus",
+        "job": "zion residents"
+        },
+
+        "Created":{
+            "status":201
+        },
+        "OK":{
+            "status":200
+        },
+        "NotFound":{
+            "status":404
+        },
+
+        "GetJson":{
+            
+                "data": {
+                    "id": 2,
+                    "email": "janet.weaver@reqres.in",
+                    "first_name": "Janet",
+                    "last_name": "Weaver",
+                    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/josephstein/128.jpg"
+                },
+                "ad": {
+                    "company": "StatusCode Weekly",
+                    "url": "http://statuscode.org/",
+                    "text": "A weekly newsletter focusing on software development, infrastructure, the server, performance, and the stack end of things."
+                }
+            
+        },
+        "PostJson":{
+                "name": "morpheus",
+                "job": "leader",
+                "id": "35"
+            
+        },
+        "PutJson":{
+            "name": "morpheus",
+            "job": "zion residents",
+            "updatedAt": "2020-05-31T15:29:58.847Z"
+        }
+        
+    }
